@@ -1,9 +1,9 @@
 # Temario del curso
 
 
-## Parte 1: Instalación e introducción (¿Cómo empezar con python?)
+### Parte 1: Instalación e introducción (¿Cómo empezar con python?)
 
-## 	Parte 2: Tipos de variables (Conociendo las variables)
+### 	Parte 2: Tipos de variables (Conociendo las variables)
 
 ## 	Parte 3: Herramientas de control, funciones y clases (Aprendiendo a tener el control)
 
